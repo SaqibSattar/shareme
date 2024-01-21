@@ -68,7 +68,8 @@ export const categories = [
   {
     id: 12,
     name: 'dogs',
-    image: 'https://i.pinimg.com/236x/1bc83077e363db1a394bf6a64b071e9f.jpg',
+    image:
+      'https://i.pinimg.com/236x/1b/c8/30/1bc83077e363db1a394bf6a64b071e9f.jpg',
   },
   {
     id: 13,
